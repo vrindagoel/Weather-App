@@ -7,8 +7,13 @@ When the user denies the access his location:
 
 After getting the access:
 
-During night:
-![image](https://user-images.githubusercontent.com/61345873/120041823-953c9d80-c026-11eb-9838-6a6843557a7c.png)
+During day:
+![image](https://user-images.githubusercontent.com/61345873/120058457-8d055200-c068-11eb-8a2d-24b2edb3c248.png)
 
+We can see the weather in different units on clicking over the area where temperature is shown:
+In Fahrenheit
+![image](https://user-images.githubusercontent.com/61345873/120058491-cc33a300-c068-11eb-8836-d3e8cec9397b.png)
 
+In Kelvin
+![Uploading image.png…]()
 
